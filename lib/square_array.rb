@@ -7,3 +7,5 @@ def square_array(numbers)
   end
   result
 end
+
+puts square_array(9)
